@@ -1,12 +1,11 @@
-## Hi there 👋
+## Привет 👋 
 
-<!--
+**Это закрытая организация проекта [ton-swap.com](https://ton-swap.com)**
 
-**Here are some ideas to get you started:**
+> Мы создаём революционные решения для экосистемы блокчейна 💎
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+### Сотрудничество
+Обращаться к [@tg09F9](https://t.me/tg09F9) или [@nkt114](https://t.me/nkt114)
+
+![Donation address](https://img.shields.io/badge/Mission-We%20are%20making%20TON%20great!-informational?style=flat&logo=data.ai&labelColor=303d50&logoColor=white&color=475a75)
